@@ -1,6 +1,6 @@
 # TailwindSQL 🎨
 
-> Like TailwindCSS, but for SQL queries in React Server Components.
+> Like TailwindCSS, but for SQL queries in React Server Components, Uses buns native sqlite driver.
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github)](https://github.com/mmarinovic/tailwindsql)
 
